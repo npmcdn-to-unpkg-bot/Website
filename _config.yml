@@ -1,9 +1,0 @@
-name: Brendan Ryan
-
-exclude: [
-  "_dev",
-  "Gemfile",
-  "Gemfile.lock",
-  "gulpfile.js",
-  "node_modules",
-  "package.json"]
